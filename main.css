@@ -1,0 +1,12 @@
+.heart{
+    width: 20vw;
+    margin-bottom: 2vw;
+}
+
+.dnon{
+    display: none;
+}
+
+.image{
+    transition: .5s;
+}
